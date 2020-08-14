@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f0f5;
+}
+
+body {
+    font-family: 'Abel', sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+#nomeUsuario{
+    color: white;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+}
+#bv{
+    color: white;
+    padding: 5px;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+}
+h2 {
+    font-weight: bold;
+}
+
+#tblListar h1 {
+    font-weight: bold;
+}
+
+#tblListar h1 {
+    font-size: 20px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form label {
+    font-size: 20px;
+}
+
+#tblListar p {
+    margin: 0;
+}
+
+#tblListar div {
+    width: 95%;
+    margin: 0;
+    margin: 15px auto;
+    background-color: white;
+    border: solid 1px #c3c3cf;
+}
+
+#tblListar div p {
+    width: 70%;
+}
+
+#tblListar div p {
+    margin-left: 10px;
+}
+
+#tblListar div img {
+    float: right;
+    margin: 10px;
+}
+
+#tblListar div h1 {
+    margin-left: 10px;
+}
